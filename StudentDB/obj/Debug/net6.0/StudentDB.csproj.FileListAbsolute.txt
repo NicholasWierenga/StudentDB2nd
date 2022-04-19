@@ -1,0 +1,15 @@
+C:\Users\Nick\source\repos\StudentDB\StudentDB\bin\Debug\net6.0\StudentDB.exe
+C:\Users\Nick\source\repos\StudentDB\StudentDB\bin\Debug\net6.0\StudentDB.deps.json
+C:\Users\Nick\source\repos\StudentDB\StudentDB\bin\Debug\net6.0\StudentDB.runtimeconfig.json
+C:\Users\Nick\source\repos\StudentDB\StudentDB\bin\Debug\net6.0\StudentDB.dll
+C:\Users\Nick\source\repos\StudentDB\StudentDB\bin\Debug\net6.0\StudentDB.pdb
+C:\Users\Nick\source\repos\StudentDB\StudentDB\obj\Debug\net6.0\StudentDB.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\StudentDB\StudentDB\obj\Debug\net6.0\StudentDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\StudentDB\StudentDB\obj\Debug\net6.0\StudentDB.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\StudentDB\StudentDB\obj\Debug\net6.0\StudentDB.AssemblyInfo.cs
+C:\Users\Nick\source\repos\StudentDB\StudentDB\obj\Debug\net6.0\StudentDB.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\StudentDB\StudentDB\obj\Debug\net6.0\StudentDB.dll
+C:\Users\Nick\source\repos\StudentDB\StudentDB\obj\Debug\net6.0\refint\StudentDB.dll
+C:\Users\Nick\source\repos\StudentDB\StudentDB\obj\Debug\net6.0\StudentDB.pdb
+C:\Users\Nick\source\repos\StudentDB\StudentDB\obj\Debug\net6.0\StudentDB.genruntimeconfig.cache
+C:\Users\Nick\source\repos\StudentDB\StudentDB\obj\Debug\net6.0\ref\StudentDB.dll
